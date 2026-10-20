@@ -1,4 +1,4 @@
-# Assignment on JS, TS & Node.js
+# NAVIGATOR
 
 A full-stack application with an Express backend and a static frontend client, integrating the Google Maps API.
 
